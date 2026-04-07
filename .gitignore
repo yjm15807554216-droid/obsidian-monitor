@@ -1,0 +1,19 @@
+# Python 代码（防止意外提交）
+*.py
+
+# 配置文件
+config.*
+.env
+*.key
+*.token
+*_secret*
+
+# 数据库
+*.db
+
+# macOS
+.DS_Store
+
+# Obsidian 工作区缓存
+.obsidian/workspace*
+.obsidian/cache
